@@ -3,4 +3,6 @@ def funcion2(a,b):
 
 
 if __name__ == '__main__':
-    print(funcion2(7,7))
+    print(funcion2(7,4))
+
+

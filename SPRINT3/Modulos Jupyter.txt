@@ -1,0 +1,9 @@
+Jupyter
+Jupyter Cell Tags
+Jupyter Keymaps
+Jupyter Slideshow
+Jupyter Renderers
+Pylance
+Python
+Spanish
+Remote Repositories

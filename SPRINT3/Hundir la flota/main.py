@@ -8,9 +8,12 @@ from variables import *
 # DEFINICIÓN DE FUNCIONES
 from funcion1 import *
 from funcion2 import *
+#from funciones import * 
 
 # DEFINICIÓN DE CLASES
 from claseA import *
+#from clases import *
+
 
 # CÓDIGO PRINCIPAL
 def main():
